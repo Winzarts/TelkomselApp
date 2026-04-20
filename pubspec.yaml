@@ -1,0 +1,107 @@
+name: uuk
+description: "A new Flutter project."
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.1.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^5.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/Images/agus.png
+    - assets/Icons/X light.svg
+    - assets/Icons/hiburan.svg
+    - assets/Icons/Internet.svg
+    - assets/Icons/riwayat.svg
+    - assets/Icons/roaming.svg
+    - assets/Icons/sms.svg
+    - assets/Icons/telepon.svg
+    - assets/Icons/tersimpan.svg
+    - assets/Icons/unggulan.svg
+    - assets/Images/image 1.png
+    - assets/Images/image 2.png
+    - assets/Icons/ic_round-qrcode.svg
+    - assets/Images/Dana-logo-500x333.png
+    - assets/Images/Logo LinkAja.png
+    - assets/Images/Logo GoPay.png
+    - assets/Images/image 3.png
+    - assets/Images/Logo OVO.png
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

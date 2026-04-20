@@ -89,7 +89,7 @@ Distributed under the MIT License.
         <sub><b>Register Screen</b></sub>
       </td>
       <td align="center">
-        <img src="screenshot/homePage.png" width="200" /><br />
+        <img src="screenshot/HomePage.png" width="200" /><br />
         <sub><b>Home Screen</b></sub>
       </td>
       <td align="center">

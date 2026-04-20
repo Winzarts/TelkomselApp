@@ -78,3 +78,30 @@ Ini adalah proyek pembelajaran prototype. Jika Anda memiliki ide untuk meningkat
 ## 📝 License
 
 Distributed under the MIT License.
+
+## Screenshots
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center">
+        <img src="screenshot/RegisterPage.png" width="200" /><br />
+        <sub><b>Register Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshot/homePage.png" width="200" /><br />
+        <sub><b>Home Screen</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshot/MenuPage.png" width="200" /><br />
+        <sub><b>Paket Menu Screen</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshot/paymentPage.png" width="200" /><br />
+        <sub><b>Search</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>

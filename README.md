@@ -24,14 +24,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| Home Perdana | Daftar Paket | Payment Page |
-|:---:|:---:|:---:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
@@ -79,7 +71,7 @@ Ini adalah proyek pembelajaran prototype. Jika Anda memiliki ide untuk meningkat
 
 Distributed under the MIT License.
 
-## Screenshots
+## 📸 Screenshots
 
 <div align="center">
   <table style="border: none;">

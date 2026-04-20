@@ -92,7 +92,7 @@ Distributed under the MIT License.
     <tr>
       <td align="center">
         <img src="screenshot/paymentPage.png" width="200" /><br />
-        <sub><b>Search</b></sub>
+        <sub><b>payment Screen</b></sub>
       </td>
     </tr>
   </table>
